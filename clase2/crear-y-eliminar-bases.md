@@ -18,7 +18,7 @@
 > Para eliminar una base de datos utilizamos el comando
 > *** DROP DATABASE *** 
 
-> Sint´´axis 
+> Sintáxis 
 
     DROP DATABASE nombre;  
 
